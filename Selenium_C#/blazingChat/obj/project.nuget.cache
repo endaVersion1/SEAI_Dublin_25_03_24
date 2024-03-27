@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ur2Qi3nlLvmtxAOaGkEstk4skouqAVTxIniWrmis0i+CQ8jNpe5k3xlcxaz4XhXnvTyrusR+5es0LKIoLey0/Q==",
+  "dgSpecHash": "w6gpUZ4+UszywzF6Xid212zZBeQSv6Br2tDuJeD7kaEyY3/A5sp9pPuaa8tScLu8+rmNJZ1+Twj9PFDCV3LuiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\SEAI_Dublin_25_03_24\\Qa_Automation\\Selenium_C#\\blazingChat\\blazingChat.csproj",
+  "projectFilePath": "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\QaCommunity\\SEAI_Dublin_25_03_24\\Selenium_C#\\blazingChat\\blazingChat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BrodyE\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\BrodyE\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",

@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="5.152545">
+<testsuite name="VisualRegression.spec.ts" timestamp="2023-11-01T07:49:53.451Z" hostname="Chrome" tests="1" failures="0" skipped="0" time="3.599" errors="0">
+<testcase name="Open blazing Chat › Viusal Regression Login Page" classname="VisualRegression.spec.ts" time="3.599">
+</testcase>
+</testsuite>
+</testsuites>

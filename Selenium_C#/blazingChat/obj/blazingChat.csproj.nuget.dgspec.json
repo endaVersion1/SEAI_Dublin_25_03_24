@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\SEAI_Dublin_25_03_24\\Qa_Automation\\Selenium_C#\\blazingChat\\blazingChat.csproj": {}
+    "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\QaCommunity\\SEAI_Dublin_25_03_24\\Selenium_C#\\blazingChat\\blazingChat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\SEAI_Dublin_25_03_24\\Qa_Automation\\Selenium_C#\\blazingChat\\blazingChat.csproj": {
+    "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\QaCommunity\\SEAI_Dublin_25_03_24\\Selenium_C#\\blazingChat\\blazingChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\SEAI_Dublin_25_03_24\\Qa_Automation\\Selenium_C#\\blazingChat\\blazingChat.csproj",
+        "projectUniqueName": "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\QaCommunity\\SEAI_Dublin_25_03_24\\Selenium_C#\\blazingChat\\blazingChat.csproj",
         "projectName": "blazingChat",
-        "projectPath": "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\SEAI_Dublin_25_03_24\\Qa_Automation\\Selenium_C#\\blazingChat\\blazingChat.csproj",
+        "projectPath": "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\QaCommunity\\SEAI_Dublin_25_03_24\\Selenium_C#\\blazingChat\\blazingChat.csproj",
         "packagesPath": "C:\\Users\\BrodyE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\SEAI_Dublin_25_03_24\\Qa_Automation\\Selenium_C#\\blazingChat\\obj\\",
+        "outputPath": "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\QaCommunity\\SEAI_Dublin_25_03_24\\Selenium_C#\\blazingChat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
