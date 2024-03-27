@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ur2Qi3nlLvmtxAOaGkEstk4skouqAVTxIniWrmis0i+CQ8jNpe5k3xlcxaz4XhXnvTyrusR+5es0LKIoLey0/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BrodyE\\OneDrive - Version 1\\Desktop\\SEAI_Dublin_25_03_24\\Qa_Automation\\Selenium_C#\\blazingChat\\blazingChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BrodyE\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BrodyE\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\BrodyE\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\BrodyE\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\BrodyE\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\BrodyE\\.nuget\\packages\\nunit3testadapter\\4.2.0\\nunit3testadapter.4.2.0.nupkg.sha512",
+    "C:\\Users\\BrodyE\\.nuget\\packages\\selenium.webdriver\\4.14.0\\selenium.webdriver.4.14.0.nupkg.sha512",
+    "C:\\Users\\BrodyE\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "blazingChat depends on NUnit3TestAdapter (>= 4.1.1) but NUnit3TestAdapter 4.1.1 was not found. An approximate best match of NUnit3TestAdapter 4.2.0 was resolved.",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

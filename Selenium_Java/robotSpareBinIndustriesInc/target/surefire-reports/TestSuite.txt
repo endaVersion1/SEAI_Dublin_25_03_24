@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 61.827 s <<< FAILURE! - in TestSuite
+testAPiPutUser(com.blazinchat.ApiTest)  Time elapsed: 7.118 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <404>.
+
+	at com.blazinchat.ApiTest.testAPiPutUser(ApiTest.java:101)
+
+testLogIn(com.blazinchat.BlazingTest)  Time elapsed: 11.582 s  <<< FAILURE!
+java.lang.AssertionError: Button is enabled when it shouldnt be expected [false] but found [true]
+	at com.blazinchat.BlazingTest.testLogIn(BlazingTest.java:69)
+
